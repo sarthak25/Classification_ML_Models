@@ -15,7 +15,7 @@ This project requires **Python 3.1** and the following Python libraries installe
 
 This repository contains some of the machine learning models for classification 
 
-The algorithms implemented are:
+The algorithms implemented are :
 1) Naives Bayes
 2) KNN
 3) Decision Tree
