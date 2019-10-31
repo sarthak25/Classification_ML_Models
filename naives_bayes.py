@@ -1,6 +1,6 @@
 # Naive Bayes
 
-# Importing the libraries
+# Importing the libraries naive
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -22,7 +22,7 @@ X_test = sc.transform(X_test)
 
 # Fitting Naive Bayes to the Training set
 from sklearn.naive_bayes import GaussianNB
-classifier = GaussianNB()
+classifier = GaussianNB3()
 classifier.fit(X_train, y_train)
 
 # Predicting the Test set results
