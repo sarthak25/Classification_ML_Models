@@ -21,4 +21,5 @@ The algorithms implemented are :
 3) Decision Tree
 4) Random Forest
 5) Logistic Regression
+6) Kernel SVM
 
