@@ -23,4 +23,4 @@ The algorithms implemented are :
 4) Random Forest
 5) Logistic Regression
 6) Kernel SVM
-
+7) Artificial Neural Network ANN
