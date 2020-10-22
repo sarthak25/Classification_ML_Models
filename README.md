@@ -12,6 +12,7 @@ This project requires **Python 3.1** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [Scikit-Learn](http://scikit-learn.org/stable/)
 - [Matplotlib](http://matplotlib.org/users/installing.html/)
+- [TensorFlow](https://www.tensorflow.org/learn)
 
 This repository contains some of the machine learning models for classification 
 
